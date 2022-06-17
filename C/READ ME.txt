@@ -1,0 +1,3 @@
+Si vous souhaitez écrire les données dans le fichier text.
+Il vous faut changer la destination d'ouverture du fichier.
+Dans la destination du nom de votre Ordinateur que vous utulisez.
